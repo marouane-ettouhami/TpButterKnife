@@ -1,1 +1,2 @@
 'all:' 
+'\tlatex projet.tex' 
